@@ -1,6 +1,5 @@
 package com.example.tests;
 
-import com.example.entities.CatalogModel;
 import com.example.fixtures.LazadaSearchFixtures;
 import com.example.steps.LazadaSearchSteps;
 import org.junit.jupiter.api.Test;

@@ -8,7 +8,6 @@ import io.restassured.RestAssured;
 import org.openqa.selenium.Cookie;
 
 import java.util.HashMap;
-
 import java.util.Set;
 
 public class LazadaSearchFixtures {

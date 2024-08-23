@@ -7,7 +7,6 @@ import io.qameta.allure.Step;
 
 import java.util.List;
 
-import static com.example.utils.TextHandler.getText;
 import static org.assertj.core.api.Assertions.assertThat;
 
 public class LazadaSearchSteps {

@@ -3,7 +3,6 @@ package com.example.utils;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.Properties;
-import java.util.ResourceBundle;
 
 public class PropertiesHandler {
 
